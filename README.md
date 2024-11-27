@@ -32,5 +32,5 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:[https://jehzucco.github.io/Frontend-Mentor---Manage-landing-page-solution/] (https://jehzucco.github.io/Frontend-Mentor---Manage-landing-page-solution/)
+- Live Site URL: [https://jehzucco.github.io/Frontend-Mentor---Manage-landing-page-solution/](https://jehzucco.github.io/Frontend-Mentor---Manage-landing-page-solution/)
 
